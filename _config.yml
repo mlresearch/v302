@@ -1,0 +1,89 @@
+---
+booktitle: DLI 2025 Research Track
+shortname: DLI
+volume: '302'
+year: '2025'
+start: &1 2025-07-17
+end: 2025-07-22
+published: 2026-02-13
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: DLI-2025
+month: 0
+cycles: false
+bibtex_editor: of Machine Learning Research, Proceedings
+editor:
+- given: Proceedings
+  family: Machine Learning Research
+  prefix: of
+title: Proceedings of Machine Learning Research
+description: |
+  DLI 2025 Research Track
+    Held in University of Rwanda, Kigali, Rwanda on 17-22 July 2025
+
+  Published as Volume 302 by the Proceedings of Machine Learning Research on 13 February 2026.
+
+  Volume Edited by:
+    Proceedings of Machine Learning Research
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 17--22 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v302"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v302
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v302
+email: ''
+conference:
+  name: Deep Learning Indaba
+  url: https://deeplearningindaba.com/2025/
+  location: University of Rwanda, Kigali, Rwanda
+  dates:
+  - *1
+  - 2025-07-18
+  - 2025-07-19
+  - 2025-07-20
+  - 2025-07-21
+  - 2025-07-22
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: dli2025_cleaned_clean.bib
+# Site settings
+# Original source:  dli2025_cleaned_clean.bib
