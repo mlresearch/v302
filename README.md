@@ -15,7 +15,12 @@ For details of what is required to submit a proceedings please check https://pro
 Published as Volume 302 by the Proceedings of Machine Learning Research on 13 February 2026.
 
 Volume Edited by:
-  * Proceedings of Machine Learning Research
+  * Hatem Haddad
+  * Albert Njoroge Kahira
+  * Sofia Bourhim
+  * Iyiola Emmanuel Olatunji
+  * Lesego Makhafola
+  * Christine Mwase
 
 Series Editors:
   * Neil D. Lawrence
