@@ -3,7 +3,7 @@ booktitle: DLI 2025 Research Track
 shortname: DLI
 volume: '302'
 year: '2025'
-start: &1 2025-08-17
+start: 2025-08-17
 end: 2025-08-22
 published: 2026-02-13
 layout: proceedings
@@ -81,7 +81,7 @@ conference:
   url: https://deeplearningindaba.com/2025/
   location: University of Rwanda, Kigali, Rwanda
   dates:
-  - *1
+  - 2025-08-17
   - 2025-08-18
   - 2025-08-19
   - 2025-08-20
